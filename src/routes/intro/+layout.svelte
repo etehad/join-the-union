@@ -6,7 +6,7 @@
   <nav class="flex flex-col gap-2">
     <a href="/intro/logic">منطق انقلاب</a>
     <a href="/intro/joining-the-union">عضویت در اتحادیه</a>
-    <a href="/">اعضای شورای هماهنگی</a>
+    <a href="/intro/members">اعضای شورای هماهنگی</a>
     <a href="/">ساختار کاری شورای هماهنگی</a>
     <a href="/">عضویت در شورای هماهنگی</a>
     <a href="/">بازگشت به صفحه اصلی</a>
